@@ -13,3 +13,5 @@ layer and reconstruction layer. I also added the feature of color preserving.
 ![result](https://github.com/g-ziyan/An_Exploration_of_Neural_Style_Transfer/blob/master/imgs/result2.png)
 
 ### Reference
+1. Torch (Lua) implementation by [jcjohnson] (https://github.com/jcjohnson/fast-neural-style)
+2. PyTorch implementation by [pytorch] (https://github.com/pytorch/examples/tree/master/fast_neural_style)
