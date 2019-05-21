@@ -7,6 +7,9 @@ and feed-forward networks. I extended the model by modifying the structures of i
 layer and reconstruction layer. I also added the feature of color preserving. 
 
 ### Results
-!(https://github.com/g-ziyan/An_Exploration_of_Neural_Style_Transfer/blob/master/imgs/result.png)
-!(https://github.com/g-ziyan/An_Exploration_of_Neural_Style_Transfer/blob/master/imgs/result2.png)
+
+![result](https://github.com/g-ziyan/An_Exploration_of_Neural_Style_Transfer/blob/master/imgs/result.png)
+
+![result](https://github.com/g-ziyan/An_Exploration_of_Neural_Style_Transfer/blob/master/imgs/result2.png)
+
 ### Reference
